@@ -1,0 +1,23 @@
+#problem statement 
+1.	Machine Translation Using Custom Seq2Seq + Attention
+(Neural Machine Translation with Attention from Scratch)
+
+#Objective:
+Students build a Seq2Seq Encoder–Decoder model with Attention to translate:
+•	English → Hindi
+•	OR English → any Indian regional language 
+
+ #Tasks:
+•	Implement encoder, decoder, attention mechanism.
+•	Train on a small parallel dataset (10k–20k pairs).
+
+#Compare:
+•		With attention vs. without attention
+•	Evaluate using BLEU score.
+•	Provide error analysis for difficult sentences.
+
+#soultion:
+English → Sanskrit
+English → Hindi
+English → Telugu
+Using seq2seq and attention 
